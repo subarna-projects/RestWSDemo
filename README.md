@@ -1,0 +1,2 @@
+# RestWSDemo
+Basic REST methods
